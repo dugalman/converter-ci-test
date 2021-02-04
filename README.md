@@ -48,3 +48,7 @@ $ npm test
 ## Coverage
 
 Hay que instalar la biblioteca **istambul** y ejecuar el comando 
+
+## LINKS
+
+https://istanbul.js.org/docs/tutorials/mocha/
