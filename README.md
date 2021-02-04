@@ -44,3 +44,7 @@ $ npm test
   6 passing (64ms)
 
 ```
+
+## Coverage
+
+Hay que instalar la biblioteca **istambul** y ejecuar el comando 
