@@ -4,8 +4,8 @@
   "description": "",
   "main": "app/server.js",
   "scripts": {
-
-    "test": "nyc --reporter=html --reporter=text mocha"
+    "test": "mocha --reporter spec",
+    "coverage": "nyc --reporter=html --reporter=text mocha"
   },
   "author": "",
   "license": "ISC",
