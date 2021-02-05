@@ -5,7 +5,8 @@
   "main": "app/server.js",
   "scripts": {
     "test": "mocha --reporter spec",
-    "coverage": "nyc --reporter=html --reporter=text mocha"
+    "coverage": "nyc --reporter=text mocha",
+    "report-coverage": "nyc report --reporter=html  --reporter=text-lcov > coverage.lcov && codecov"
   },
   "author": "",
   "license": "ISC",
