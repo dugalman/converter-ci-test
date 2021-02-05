@@ -1,4 +1,8 @@
-# README
+# MAIN
+
+![Github All Release](https://img.shields.io/github/downloads/dugalman/converter-ci-test/total?logo=Github)
+![Version](https://badge.fury.io/gh/dugalman%2Fconverter-ci-test.svg)
+
 
 La idea de este proyecto es probar una aplicacion cion de test en NODEJS
 
